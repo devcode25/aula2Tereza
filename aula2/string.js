@@ -7,7 +7,7 @@
 
  //concatenar
  
- /*console.log('Hello' + ' ' + "World")
+ console.log('Hello' + ' ' + "World")
 
  console.log('Hello' + "World")
 
@@ -15,13 +15,12 @@
  console.log("Hello" + ' ' + myName)
 
  myName2 = "2"
- console.log(`Hello ${myName2}`)*/
-
+ console.log(`Hello ${myName2}`)
 //---------------------------
 
- /*const x = 0
+ const x = 0
  y = "morango"
- console.log(x,"\n",y)*/
+ console.log(x,"\n",y)
 
 // _________________________________
 
